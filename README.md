@@ -14,7 +14,9 @@ If you do that program icon will in you system!
 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/98832d3025a74cd2b6290c08ae8ea769.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBASFVURVJPWA==,size_14,color_FFFFFF,t_70,g_se,x_16#pic_center)
-and this process UI is 
+
+and this Program UI is 
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/0b1e707206ac47bfa1edc3af65719d2d.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBASFVURVJPWA==,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 # remove program
 
