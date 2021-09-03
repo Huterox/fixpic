@@ -1,0 +1,2 @@
+# fixpic
+process for debian
